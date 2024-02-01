@@ -3,6 +3,7 @@ h1, h2, p {
     margin: 0;
     font-weight: bold;
 }
+h1{color:blue;
 
 body {
     font-family: Arial, sans-serif;
